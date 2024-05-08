@@ -1,4 +1,6 @@
 # Tic Tac Toe React App
+This is tic tac toe game Developed using **ReactJs, CSS and JavaScript.**
+
 
 This project was made with [Create React App](https://github.com/facebook/create-react-app).
 
